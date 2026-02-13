@@ -52,6 +52,7 @@ Required environment variables:
 - `NEXTAUTH_URL` - Your app's URL (e.g., `http://localhost:3000` or `https://love.kaytwenty.com`)
 - `DISCORD_CLIENT_ID` - Your Discord application's client ID
 - `DISCORD_CLIENT_SECRET` - Your Discord application's client secret
+- `DISCORD_WEBHOOK_URL` - (Optional) Discord webhook URL for logging results
 
 Optional:
 - `KAYTWENTY_SEED` - Custom seed for the compatibility algorithm
